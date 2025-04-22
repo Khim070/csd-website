@@ -1,0 +1,141 @@
+{
+    "slideshow": {
+      "Welcome to the Computer Science Department": "Welcome to the Computer Science Department",
+      "Join a community of innovators, researchers, and future tech leaders shaping the world of tomorrow.": "Join a community of innovators, researchers, and future tech leaders shaping the world of tomorrow.",
+      "Explore Our Research Programs": "Explore Our Research Programs",
+      "Be part of groundbreaking research that shapes the future of technology.": "Be part of groundbreaking research that shapes the future of technology.",
+      "Innovating for the Future": "Innovating for the Future",
+      "Get ready to be a part of the next generation of tech leaders.": "Get ready to be a part of the next generation of tech leaders."
+    },
+    "menu": {
+      "About": "About",
+      "Explore Our Program": "Explore Our Program",
+      "home": "Home",
+      "about": "About",
+      "developerTeam": "Developer Team",
+      "contact": "Contact",
+      "programs": "Programs",
+      "bachelor": "Bachelor",
+      "master": "Master",
+      "doctoral": "Doctoral",
+      "diploma": "Diploma",
+      "admission": "Admission",
+      "newsEvents": "News & Events",
+      "campusLife": "Campus Life",
+      "facilities": "Facilities",
+      "Scholarships": "Scholarships",
+      "Academics": "Academics",
+      "faculty": "Faculty",
+      "Research": "Research"
+    },
+    "service": {
+        "About Program": "About Program",
+        "Balanced curriculum with theory and hands-on learning." : "Balanced curriculum with theory and hands-on learning.",
+        "Job Opportunities": "Job Opportunities",
+        "Launch your career in tech and innovation." : "Launch your career in tech and innovation.", 
+        "Events" : "Events",
+        "Workshops, hackathons, and networking opportunities." : "Workshops, hackathons, and networking opportunities."
+    },
+    "News":{
+        "Announcements": "Announcements",
+        "News": "News",
+        "Events": "Events",
+        "Announment" : "Announments",
+        "Re-exam schedule for 1st, 2nd students": "Re-exam schedule for 1st, 2nd students",
+        "Student office has a new announcement regarding re-exam..." : "Student office has a new announcement regarding re-exam...",
+        "Semester Break & Holiday Notices" : "Semester Break & Holiday Notices",
+        "A new semester break for 4th year students will be hosted on 21 Jun...":  "A new semester break for 4th year students will be hosted on 21 Jun...",
+        "View All" : "View All"
+    },
+    "Events":{
+        "Events & News": "Events & News",
+        "Engage with cutting-edge workshops, conferences, and networking opportunities." : "Engage with cutting-edge workshops, conferences, and networking opportunities.", 
+        "Hackathons" :  "Hackathons" ,
+        "Guest Lecture on Artificial Intelligence" : "Guest Lecture on Artificial Intelligence",
+        "Annual university tournament for basketball team." : "Annual university tournament for basketball team."  ,
+        "22 Aug 2025" : "22 Aug 2025",
+        "Conferences" : "Conferences",
+        "AI in Healthcare Symposium" : "AI in Healthcare Symposium",
+        "Exploring the latest advancements in AI for medical applications" :"Exploring the latest advancements in AI for medical applications",
+        "15 Sep 2025" : "15 Sep 2025",
+        "Workshops" : "Workshop",
+        "Web Development Workshop": "Web Development Workshop",
+        "Hands-on workshop on building responsive web applications." : "Hands-on workshop on building responsive web applications.",
+        "05 Oct 2025" : "05 Oct 2025",
+        "Meetups": "Meetups",
+        "Data Science Meetup":  "Data Science Meetup",
+        "Networking event for data science enthusiasts and professionals": "Networking event for data science enthusiasts and professionals",
+        "20 Oct 2025": "20 Oct 2025"
+    },
+    "Department":{
+        "Department of Computer Science": "Department of Computer Science",
+        "Offers the first Computer Science degree program, designed to provide students with a strong foundation in both theory and practical skills. We ensure that our curriculum aligns with industry standards, equipping graduates with the knowledge needed to succeed in the competitive job market. With a team of highly skilled professors who bring both academic expertise and real-world experience" : "Offers the first Computer Science degree program, designed to provide students with a strong foundation in both theory and practical skills. We ensure that our curriculum aligns with industry standards, equipping graduates with the knowledge needed to succeed in the competitive job market. With a team of highly skilled professors who bring both academic expertise and real-world experience, we prepare students for careers in technology and innovation. We offer:",
+        "Programming (Desktop, Mobile, and Web Application)" : "Programming (Desktop, Mobile, and Web Application)",
+        "System Analysis & Design and Development" : "System Analysis & Design and Development",
+        "Software Engineering and IT Project Management": "Software Engineering and IT Project Management",
+        "Database Management": "Database Management",
+        "Computer Networks, Cloud Computing & Cybersecurity": "Computer Networks, Cloud Computing & Cybersecurity",
+        "Artificial Intelligence" : "Artificial Intelligence",
+        "Computer Architecture and Embedded Systems": "Computer Architecture and Embedded Systems"
+    },
+    "Academics":{
+        "Academics": "Academics",
+        "The Computer Science Department offers a comprehensive undergraduate program designed to provide students with a strong foundation in computing principles, programming, and modern technologies.":"The Computer Science Department offers a comprehensive undergraduate program designed to provide students with a strong foundation in computing principles, programming, and modern technologies.",
+        "Our curriculum emphasizes both theoretical and practical aspects of computer science, equipping graduates with the skills needed for a successful career in the ever-evolving tech industry." : "Our curriculum emphasizes both theoretical and practical aspects of computer science, equipping graduates with the skills needed for a successful career in the ever-evolving tech industry.",
+        "Undergraduate Program" : "Undergraduate Program" ,
+        "Graduate Program" : "Graduate Program",
+        "Explore": "Explore"
+    },
+    "Statistics" : {
+        "Students" : "Students",
+        "Increase Enrollment" : "Increase Enrollment",
+        "University In Cambodia" : "CS Program in Cambodia"
+    },
+    "Contact": {
+        "Contact Us If You Have Any Questions" : "Contact Us If You Have Any Questions",
+        "First Name*" : "First Name*",
+        "Last Name*" : "Last Name*",
+        "Email*" : "Email*",
+        "Description": "Description",
+        "Submit" : "Submit"
+      },
+      "Research":{
+        "Research & Innovations" : "Research & Innovations" ,
+        "Advancing Computer Repair Frontiers:" :"Advancing Computer Repair Frontiers:",
+        "Innovations and Challenges in Modern Technology Maintenance" :  "Innovations and Challenges in Modern Technology Maintenance",
+        "Exploring Innovative Diagnostic Techniques, Emerging Repair Technologies, and Advanced Troubleshooting Methods to Enhance Efficiency, Reliability, and Longevity in Modern Digital Devices." : "Exploring Innovative Diagnostic Techniques, Emerging Repair Technologies, and Advanced Troubleshooting Methods to Enhance Efficiency, Reliability, and Longevity in Modern Digital Devices.",
+        "Computational Advancements": "Computational Advancements",
+        "AI & Systems Optimization": "AI & Systems Optimization",
+        "Exploring the Intersection of Data, Systems, and Smart Technologies" : "Exploring the Intersection of Data, Systems, and Smart Technologies",
+        "Revolutionizing Digital Infrastructure Maintenance":"Revolutionizing Digital Infrastructure Maintenance",
+        "Investigating the Role of Network Diagnostics, Cloud-Based Repair Tools, and Remote Assistance in Shaping the Future of Efficient Computer Repair, Data Recovery, and System Optimization." : "Investigating the Role of Network Diagnostics, Cloud-Based Repair Tools, and Remote Assistance in Shaping the Future of Efficient Computer Repair, Data Recovery, and System Optimization."
+      },
+      "Meet":{
+        "Meet With Our Faculty":"Meet With Our Faculty",
+        "Inspiring Minds, Nurturing Curiosity, and Shaping the Future of Knowledge and Innovation": "Professor: Inspiring Minds, Nurturing Curiosity, and Shaping the Future of Knowledge and Innovation",
+        "Head of Department": "Head of Department",
+        "Deputy Head of Department": "Deputy Head of Department" ,
+        "Assistant Professor": "Assistant Professor",
+        "Associate Professor": "Associate Professor"
+      },
+      "Partnerships" : {
+        "Our Partnerships" :  "Our Partnerships",
+        "Faculty of Science" : "Faculty of Science",
+         "Department Of Computer Science" : "Department Of Computer Science"
+      },
+      "footer": {
+        "Our Location":  "Our Location",
+        "Our Pages": "Our Pages",
+        "Home":  "Home",
+        "Research": "Research",
+        "Programs":  "Programs",
+        "Quick Links": "Quick Links",
+        "About": "About",
+        "Contact": "Contact",
+        "News&events": "News&events",
+        "Department of Computer Science. All rights reserved. Developed by ":  "Department of Computer Science. All rights reserved. Developed by ",
+        "25th Generation Students." : " 25th Generation Students."  
+      }
+
+}
+  

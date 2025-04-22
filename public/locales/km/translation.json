@@ -1,0 +1,140 @@
+{
+  "slideshow": {
+    "Welcome to the Computer Science Department": "សូមស្វាគមន៍មកកាន់ដេប៉ាតឺម៉ង់ព័ត៌មានវិទ្យា",
+    "Join a community of innovators, researchers, and future tech leaders shaping the world of tomorrow.": "ចូលរួមជាមួយសហគមន៍នៃអ្នកច្នៃប្រឌិត អ្នកស្រាវជ្រាវ និងអ្នកដឹកនាំបច្ចេកវិទ្យាថ្ងៃអនាគត ដែលកំពុងបង្កើតពិភពលោកនៃថ្ងៃស្អែក។",
+    "Explore Our Research Programs": "ស្វែងយល់អំពីកម្មវិធីស្រាវជ្រាវរបស់យើង",
+    "Be part of groundbreaking research that shapes the future of technology.": "ចូលរួមក្នុងការស្រាវជ្រាវបង្កើតអ្វីថ្មី ដែលកំពុងបង្កើតអនាគតនៃបច្ចេកវិទ្យា។",
+    "Innovating for the Future": "នវានុវត្តន៍សម្រាប់អនាគត",
+    "Get ready to be a part of the next generation of tech leaders.": "ត្រៀមខ្លួនក្លាយជាផ្នែកមួយនៃសម័យថ្មីនៃអ្នកដឹកនាំបច្ចេកវិទ្យា។"
+  },
+  "menu": {
+    "About": "អំពីដេប៉ាតឺម៉ង់",
+    "Explore Our Program": "ស្វែងយល់អំពីកម្មវិធីរបស់យើង",
+    "home": "ទំព័រដើម",
+    "about": "អំពីដេប៉ាតឺម៉ង់",
+    "aboutWebsite": "អំពីគេហទំព័រ",
+    "developerTeam": "ក្រុមអភិវឌ្ឍន៍",
+    "contact": "ទំនាក់ទំនង",
+    "programs": "កម្មវិធីសិក្សា",
+    "bachelor": "បរិញ្ញាបត្រ",
+    "master": "បរិញ្ញាបត្រជាន់ខ្ពស់",
+    "doctoral": "បណ្ឌិត",
+    "diploma": "វិញ្ញាបនបត្រ",
+    "admission": "ការចុះឈ្មោះ",
+    "newsEvents": "ព័ត៌មាន និងព្រឹត្តិការណ៍",
+    "campusLife": "ជីវិតក្នុងវិទ្យាស្ថាន",
+    "facilities": "សម្ភារៈ និងសេវាកម្ម",
+    "Scholarships": "អាហារូបករណ៍",
+    "Academics": "ការអប់រំ",
+    "faculty": "សាស្រ្តាចារ្យ",
+    "Research": "ការស្រាវជ្រាវ"
+  },
+  "service": {
+    "About Program": "ស្វែងយល់អំពីកម្មវិធីរបស់យើង",
+    "Balanced curriculum with theory and hands-on learning.": "កម្មវិធីសិក្សាសមស្រប ដោយរួមបញ្ចូលទាំងទ្រឹស្តី និងការអនុវត្តជាក់ស្តែង។",
+    "Job Opportunities": "ឱកាសការងារ",
+    "Launch your career in tech and innovation.": "ចាប់ផ្តើមអាជីពរបស់អ្នកក្នុងវិស័យបច្ចេកវិទ្យា និងនវានុវត្តន៍។",
+    "Events": "ព្រឹត្តិការណ៍សំខាន់ៗ",
+    "Workshops, hackathons, and networking opportunities.": "សិក្ខាសាលា, ហេគថុន, និងឱកាសបង្កើនបណ្តាញទំនាក់ទំនង។"
+  },
+  "News": {
+    "Announcements": "សេចក្តីប្រកាសថ្មីៗ",
+    "News": "ព័ត៌មាន",
+    "Events": "ព្រឹត្តិការណ៍សំខាន់ៗ",
+    "Announment" : "សេចក្តីប្រកាសថ្មីៗ",
+    "Re-exam schedule for 1st, 2nd students": "កាលវិភាគការប្រឡងឡើងវិញសម្រាប់និស្សិតឆ្នាំទី 1 និងឆ្នាំទី 2",
+    "Student office has a new announcement regarding re-exam...": "ការិយាល័យនិស្សិតមានសេចក្តីប្រកាសថ្មីទាក់ទងនឹងការប្រឡងឡើងវិញ…",
+    "Semester Break & Holiday Notices": "សេចក្តីជូនដំណឹងអំពីការឈប់សម្រាកនៃឆមាស និងថ្ងៃឈប់សម្រាក",
+    "A new semester break for 4th year students will be hosted on 21 Jun...": "ការឈប់សម្រាកឆមាសថ្មីសម្រាប់និស្សិតឆ្នាំទី 4 នឹងចាប់ផ្តើមនៅថ្ងៃទី 21 ខែមិថុនា…",
+    "View All": "មើលទាំងអស់"
+  },
+  "Events": {
+    "Events & News": "ព្រឹត្តិការណ៍ និងព័ត៌មាន",
+    "Engage with cutting-edge workshops, conferences, and networking opportunities.": "ចូលរួមក្នុងសិក្ខាសាលាបច្ចេកវិទ្យាថ្មីៗ សន្និសីទ និងឱកាសបង្កើនបណ្តាញទំនាក់ទំនង។",
+    "Hackathons": "ហេគថុន",
+    "Guest Lecture on Artificial Intelligence": "សន្និសីទអំពីបញ្ញាសិប្បនិម្មិត",
+    "Annual university tournament for basketball team.": "ការប្រកួតកីឡាបាល់បោះប្រចាំឆ្នាំនៅសាកលវិទ្យាល័យ។",
+    "22 Aug 2025": "22 សីហា ឆ្នាំ 2025",
+    "Conferences": "សន្និសីទ",
+    "AI in Healthcare Symposium": "សន្និសីទអំពី AI ក្នុងវិស័យសុខភាព",
+    "Exploring the latest advancements in AI for medical applications": "ស្វែងយល់អំពីការរីកចម្រើនថ្មីៗនៃ AI សម្រាប់ការដាក់អនុវត្តនៅក្នុងវិស័យសុខភាព",
+    "15 Sep 2025": "15 កញ្ញា ឆ្នាំ 2025",
+    "Workshops": "សិក្ខាសាលា",
+    "Web Development Workshop": "សិក្ខាសាលាអំពីការអភិវឌ្ឍន៍គេហទំព័រ",
+    "Hands-on workshop on building responsive web applications.": "សិក្ខាសាលាអនុវត្តជាក់ស្តែងអំពីការបង្កើតកម្មវិធីគេហទំព័រដែលមានលក្ខណៈ",
+    "05 Oct 2025": "05 តុលា ឆ្នាំ 2025",
+    "Meetups": "កិច្ចជួបជុំ",
+    "Data Science Meetup": "កិច្ចជួបជុំអំពីវិទ្យាសាស្ត្រទិន្នន័យ",
+    "Networking event for data science enthusiasts and professionals": "ព្រឹត្តិការណ៍សម្រាប់អ្នកចូលចិត្ត និងអ្នកជំនាញវិទ្យាសាស្ត្រទិន្នន័យ",
+    "20 Oct 2025": "20 តុលា ឆ្នាំ 2025"
+  },
+  "Department": {
+    "Department of Computer Science": "ដេប៉ាតឺម៉ង់ព័ត៌មានវិទ្យា",
+    "Offers the first Computer Science degree program, designed to provide students with a strong foundation in both theory and practical skills. We ensure that our curriculum aligns with industry standards, equipping graduates with the knowledge needed to succeed in the competitive job market. With a team of highly skilled professors who bring both academic expertise and real-world experience": "ពួកយើងផ្តល់ជូននូវកម្មវិធីសិក្សាបរិញ្ញាបត្រព័ត៌មានវិទ្យាដំបូងគេ ដែលរចនាឡើងដើម្បីផ្តល់ឱ្យនិស្សិតនូវមូលដ្ឋានគ្រឹះដ៏រឹងមាំទាំងក្នុងទ្រឹស្តី និងជំនាញអនុវត្ត។ យើងធ្វើឱ្យកម្មវិធីសិក្សារបស់យើងស្របទៅនឹងគ្រប់វិស័យ ដើម្បីបង្កើនចំណេះដឹងសម្រាប់ការប្រកួតប្រជែងក្នុងទីផ្សារការងារ ដោយសិក្សាជាមួយនឹងគ្រូបង្រៀនដែលមានជំនាញខ្ពស់ និងបទពិសោធន៍ជាក់ស្តែង។ ពួកយើងរៀបចំនិស្សិតឲ្យសម្របទៅនឹងវិស័យបច្ចេកវិទ្យា និងនវានុវត្តន៍។ ពួកយើងផ្តល់ជូន៖",
+    "Programming (Desktop, Mobile, and Web Application)": "ការសរសេរកម្មវិធី (កម្មវិធីកំព្យូទ័រ, កម្មវិធីទូរស័ព្ទដៃ និងកម្មវិធីគេហទំព័រ)",
+    "System Analysis & Design and Development": "ការវិភាគប្រព័ន្ធ, រចនា និងអភិវឌ្ឍន៍",
+    "Software Engineering and IT Project Management": "វិស្វកម្មសូហ្វវែរនិងការគ្រប់គ្រងគម្រោង IT",
+    "Database Management": "ការគ្រប់គ្រងមូលដ្ឋានទិន្នន័យ",
+    "Computer Networks, Cloud Computing & Cybersecurity": "បណ្តាញកុំព្យូទ័រ, បច្ចេកវិទ្យាកំព្យូទ័រក្លោដ & សន្តិសុខតាមបណ្ដាញអ៊ីនធឺណិត",
+    "Artificial Intelligence": "បញ្ញាសិប្បនិម្មិត",
+    "Computer Architecture and Embedded Systems": "ស្ថាបត្យកម្មកុំព្យូទ័រ និងប្រព័ន្ធបង្កប់"
+  },
+  "Academics": {
+    "Academics": "ការអប់រំ",
+    "The Computer Science Department offers a comprehensive undergraduate program designed to provide students with a strong foundation in computing principles, programming, and modern technologies.": "ដេប៉ាតឺម៉ង់ព័ត៌មានវិទ្យាផ្តល់នូវកម្មវិធីសិក្សាថ្នាក់បរិញ្ញាបត្រដែលមានវិសាលភាពធំទូលាយ ដើម្បីផ្តល់ឱ្យនិស្សិតនូវមូលដ្ឋានគ្រឺះដ៏រឹងមាំក្នុងគោលការណ៍ ការសរសេរកម្មវិធី និងបច្ចេកវិទ្យាទំនើប។",
+    "Our curriculum emphasizes both theoretical and practical aspects of computer science, equipping graduates with the skills needed for a successful career in the ever-evolving tech industry.": "កម្មវិធីសិក្សារបស់យើងផ្តោតលើទាំងទ្រឹស្តី និងការអនុវត្តក្នុងវិស័យវិទ្យាសាស្ត្រកុំព្យូទ័រ ដើម្បីបង្កើតជំនាញចាំបាច់សម្រាប់អាជីពនៅក្នុងឧស្សាហកម្មបច្ចេកវិទ្យាដែលកំពុងតែបន្ដការអភិវឌ្ឍ។",
+    "Undergraduate Program": "កម្មវិធីសិក្សាថ្នាក់បរិញ្ញាបត្រ",
+    "Graduate Program": "កម្មវិធីក្រោយឧត្តម",
+    "Explore": "ស្វែងយល់"
+  },
+  "Statistics": {
+    "Students": "និស្សិត",
+    "Increase Enrollment": "បង្កើនការចុះឈ្មោះសិក្សា",
+    "University In Cambodia": "សាកលវិទ្យាល័យនៅកម្ពុជា"
+  },
+  "Contact": {
+    "Contact Us If You Have Any Questions": " សូមទាក់ទងមកពួកយើង ប្រសិនបើអ្នកមានសំណួរ",
+    "First Name*": "នាមខ្លួន*",
+    "Last Name*": "នាមត្រកូល*",
+    "Email*": "អ៊ីមែល*",
+    "Description": "ការពិពណ៌នា",
+    "Submit": "ដាក់ស្នើ"
+  },
+  "Research": {
+    "Research & Innovations": "ការស្រាវជ្រាវ និងនវានុវត្តន៍",
+    "Advancing Computer Repair Frontiers:": "ការចូលទៅកាន់ផ្នែកជួសជុលកុំព្យូទ័រកម្រិតខ្ពស់",
+    "Innovations and Challenges in Modern Technology Maintenance": "វានុវត្តន៍ និងបញ្ហាប្រឈមក្នុងការថែទាំឧបករណ៍បច្ចេកវិទ្យាទំនើបៗ",
+    "Exploring Innovative Diagnostic Techniques, Emerging Repair Technologies, and Advanced Troubleshooting Methods to Enhance Efficiency, Reliability, and Longevity in Modern Digital Devices.": "ការស្វែងយល់អំពីបច្ចេកទេសថ្មីៗ បច្ចេកទេសជួសជុលឧបករណ៍តិចណូឡូជីដែលកំពុងចេញថ្មី និងវិធីសាស្ត្រដោះស្រាយបញ្ហាដែលកើតឡើង ដោយបង្កើនប្រសិទ្ធភាព គុណភាពនៃការប្រើប្រាស់ និងអាយុកាលនៃឧបករណ៍ឌីជីថលទំនើបៗ។",
+    "Computational Advancements": "ការរីកចម្រើននៃការគណនា",
+    "AI & Systems Optimization": "បញ្ញាសិប្បនិម្មិត និងការប្រែប្រួលប្រព័ន្ធ",
+    "Exploring the Intersection of Data, Systems, and Smart Technologies" : "ការស្រាវជ្រាវអំពីចំណុចប្រទាក់រវាងទិន្នន័យប្រព័ន្ធ និងបច្ចេកវិទ្យាឆ្លាតវៃ",
+    "Revolutionizing Digital Infrastructure Maintenance": "ភាពប្រសើរឡើងនៃការថែទាំហេដ្ឋារចនាសម្ព័ន្ធឌីជីថល",
+    "Investigating the Role of Network Diagnostics, Cloud-Based Repair Tools, and Remote Assistance in Shaping the Future of Efficient Computer Repair, Data Recovery, and System Optimization.": "ការស្រាវជ្រាវអំពីបណ្តាញ ឧបករណ៍ជួសជុលផ្អែកលើបណ្តាញក្លោដ និងជំនួយក្នុងការជួសជុលពីចំម្ងាយ ដើម្បីបង្កើតអនាគតក្នុងការជួសជុលកុំព្យូទ័រឲ្យកាន់តែមានប្រសិទ្ធភាព ការការពារទិន្នន័យ និងការប្រែប្រួលប្រព័ន្ធ។"
+  },
+  "Meet": {
+    "Meet With Our Faculty": "ជួបជាមួយសាស្រ្តាចារ្យរបស់ពួកយើង",
+    "Inspiring Minds, Nurturing Curiosity, and Shaping the Future of Knowledge and Innovation": "សាស្រ្តាចារ្យ: ជម្រុញការគិត បណ្តុះចំណង់ចំណូលចិត្ត និងបង្កើតអនាគតនៃចំណេះដឹង និងនវានុវត្តន៍",
+    "Head of Department": "ប្រធានដេប៉ាតឺម៉ង់",
+    "Deputy Head of Department": "អនុប្រធានដេប៉ាតឺម៉ង់",
+    "Assistant Professor": "សាស្រ្ដាចារ្យជំនួយ",
+    "Associate Professor": "សាស្ត្រាចារ្យរង"
+  },
+  "Partnerships": {
+    "Our Partnerships": "ដៃគូសហការ​របស់យើង",
+    "Faculty of Science": "មហាវិទ្យាល័យ វិទ្យាសាស្រ្ដ",
+    "Department Of Computer Science" : "ដេប៉ាតឺម៉ង់ព័ត៌មានវិទ្យា"
+  },
+  "footer": {
+    "Our Location": "ទីតាំងរបស់យើង",
+    "Our Pages": "ទំព័ររបស់យើង",
+    "Home": "ទំព័រដើម",
+    "Research": "ការស្រាវជ្រាវ",
+    "Programs": "កម្មវិធីសិក្សា",
+    "Quick Links": "តំណភ្ជាប់រហ័ស",
+    "About": "អំពីដេប៉ាតឺម៉ង់",
+    "Contact": "ទំនាក់ទំនង",
+    "News&events": "ព័ត៌មាន និងព្រឹត្តិការណ៍",
+    "Department of Computer Science. All rights reserved. Developed by ": "ដេប៉ាតឺម៉ង់ព័ត៌មានវិទ្យា, រក្សាសិទ្ធិគ្រប់យ៉ាង, អភិវឌ្ឍដោយ",
+    "25th Generation Students." : " និស្សិតជំនាន់ទី 25"
+  }
+}

@@ -1,0 +1,63 @@
+@import "tailwindcss";
+
+body {
+    cursor: default;
+}
+
+p,
+li {
+    font-size: 18px;
+}
+
+button {
+    cursor: pointer;
+}
+
+
+@font-face {
+    font-family: 'Moul';
+    src: url('/fonts/Moul-Regular.ttf') format('truetype');
+}
+
+/*
+h1 {
+    font-family: 'Moul', sans-serif;
+    font-size: 20px;
+} */
+h1.font-khmer {
+    font-family: 'Moul', sans-serif;
+    font-size: 25px;
+}
+
+h2.font-khmer {
+    font-family: 'Moul', sans-serif;
+}
+
+h4 {
+    font-family: 'Moul', sans-serif;
+    font-size: 16px;
+}
+
+h3.font-khmer {
+    font-family: 'Moul', sans-serif;
+}
+
+h5.font-khmer {
+    font-family: 'Moul', sans-serif;
+}
+
+
+@font-face {
+    font-family: 'KhmerCustom';
+    src: url('/fonts/NotoSerifKhmer-VariableFont_wdth,wght.ttf') format('truetype');
+}
+
+span,
+li,
+div {
+    font-family: 'KhmerCustom', sans-serif;
+}
+
+p.font-khmer {
+    font-family: 'KhmerCustom', sans-serif;
+}
