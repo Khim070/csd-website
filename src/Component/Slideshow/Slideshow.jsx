@@ -19,7 +19,9 @@ const Slideshow = ({key, section}) => {
             axios.get(`${API_ENDPOINTS.getSlideshow}?section_id=${section.sec_id}`)
                 .then(res => {
                     const data = res.data?.data || [];
-                    const formatted = data.map(slide => ({
+                    const formatted = data
+                    .filter(slide => slide.display === 1)
+                    .map(slide => ({
                         image: `${API}/storage/uploads/${slide.img?.img}`,
                         title: slide.slider_title,
                         description: slide.slider_text,

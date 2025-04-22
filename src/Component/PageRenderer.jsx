@@ -14,7 +14,9 @@ const PageRenderer = ({ page }) => {
         if (page && page.p_id) {
             axios.get(API_ENDPOINTS.getSection)
                 .then(res => {
-                    const pageSections = res.data.data.filter(section => section.sec_page === page.p_id);
+                    const pageSections = res.data.data
+                        .filter(section => section.sec_page === page.p_id)
+                        .filter(display => display.display === 1);
                     const orderedSections = [...pageSections].sort((a, b) => a.sec_order - b.sec_order);
                     setSections(orderedSections);
                 })
